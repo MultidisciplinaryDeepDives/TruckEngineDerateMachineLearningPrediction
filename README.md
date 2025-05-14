@@ -1,6 +1,6 @@
 # Big G Express: Predicting Derates
 
-Presentation: https://docs.google.com/presentation/d/1USJeeOm9EeSrvLZr2YvWj7XL0xTf3zeIDKNPqeW94VE/edit?usp=drive_link
+**<ins>Presentation</ins>**: https://docs.google.com/presentation/d/1USJeeOm9EeSrvLZr2YvWj7XL0xTf3zeIDKNPqeW94VE/edit?usp=drive_link
 
 **<ins>Background</ins>**:
 
