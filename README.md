@@ -2,7 +2,7 @@
 
 Presentation: https://docs.google.com/presentation/d/1USJeeOm9EeSrvLZr2YvWj7XL0xTf3zeIDKNPqeW94VE/edit?usp=drive_link
 
-**Background: **
+**<ins>Background</ins>**:
 
 This project delves into J1939 fault code data and vehicle onboard diagnostic data to try and predict an upcoming full derate. 
 
